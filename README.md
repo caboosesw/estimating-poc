@@ -31,6 +31,8 @@ This is a dummy public repo to test out Github Projects, Waffle.io and Zenhub
 
 # waffle
 
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/caboosesw/estimating-poc.svg?columns=all)](https://waffle.io/caboosesw/estimating-poc)
+
 * waffle uses github labels
 * estimating is one click
 
