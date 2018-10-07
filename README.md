@@ -11,13 +11,13 @@ This is a dummy public repo to test out Github Projects, Waffle.io and Zenhub
 
 # notes
 
-* waffle uses github labels
-
 # zenhub
 
 * what is a release vs. milestone?
 
 # waffle
 
+* waffle uses github labels
+* estimating is one click
 
 
