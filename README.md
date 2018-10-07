@@ -48,4 +48,10 @@ This is a dummy public repo to test out Github Projects, Waffle.io and Zenhub
 * Metrics
 * WaffleBot
 
+## upgraded version beyond free
+
+* Metrics
+* Deployments Open deployments help article in new window
+* Epics & Dependencies Open epics and dependencies help article in new window
+* PR Statuses & Reviewers 
 
