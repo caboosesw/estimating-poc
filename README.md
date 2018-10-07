@@ -16,6 +16,17 @@ This is a dummy public repo to test out Github Projects, Waffle.io and Zenhub
 
 * what is a release vs. milestone?
 
+## salespitch
+Requires GitHub personal account
+Multiple repos in one view
+Epics & Dependencies
+Slack integration
+Unlimited collaborators
+Unlimited public & private repos
+Build, Deployment, and Review Status
+Metrics
+WaffleBot
+
 # waffle
 
 * waffle uses github labels
