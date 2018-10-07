@@ -18,6 +18,7 @@ This is a dummy public repo to test out Github Projects, Waffle.io and Zenhub
 
 ## salespitch
 
+* Tied directly to GitHub issues and pull requests
 * Unlimited Repositories
 * API Access
 * Multi-Repo Boards
@@ -33,7 +34,7 @@ This is a dummy public repo to test out Github Projects, Waffle.io and Zenhub
 
 ## salespitch
 
-* Requires GitHub personal account
+* Tied directly to GitHub issues and pull requests
 * Multiple repos in one view
 * Epics & Dependencies
 * Slack integration
